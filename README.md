@@ -1,2 +1,1 @@
-# Zomato-Landing-page
-html,css 
+# This is my zomato landing page clone
